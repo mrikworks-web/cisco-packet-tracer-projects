@@ -27,3 +27,21 @@ Connectivity was tested using:
 - `show ip dhcp pool`
 - `show ip dhcp binding`
 - `show interfaces trunk`
+
+## Airport Network
+
+### Overview
+
+Designed and configured a simple airport network using Cisco Packet Tracer.
+
+### Technologies & Concepts
+
+- IPv4 Addressing
+- VLANs
+- Inter-VLAN Routing
+- DHCP
+- Basic Connectivity Testing
+
+### Project File
+
+- `Airport-Network.pkt` - Cisco Packet Tracer airport network topology and configuration
